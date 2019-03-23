@@ -1,0 +1,31 @@
+body{
+  background: #3adc9c;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+
+}
+.left{
+  width:30%;
+  border-radius: 5%;
+  margin: 3%;
+  padding: 2%;
+  background: pink
+
+}
+.right{
+  width: 70%;
+  border-radius: 5%;
+  margin: 3%;
+  padding: 2%;
+  background: #d78ae1  ;
+}
+img{
+  width:70%;
+  height: 70%;
+  al
+}
+table{
+  border :1px solid red;
+}
